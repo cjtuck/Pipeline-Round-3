@@ -1,6 +1,6 @@
 Project Pipeline Study Report 
 ---
-|District 					|{Enter District Name}	|
+|District 					|Bristol	|
 |:----						|----								|
 |Study ID:				|{Enter Study ID}			|
 |Jurisdiction(s):		|{Enter Jurisdiction-s}	|
